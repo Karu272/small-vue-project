@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "7965",
+      "name": "Rihanna",
+      "email": "riri@test.com",
+      "password": "1234"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "McDonalds",
+      "address": "Everywhere",
+      "phone": "123456789",
+      "description": "Bad food",
+      "id": "1"
+    },
+    {
+      "id": "6eed",
+      "name": "MAX",
+      "address": "Behind the dumpster",
+      "phone": "987654321",
+      "description": "To slabby"
+    }
+  ]
+}
